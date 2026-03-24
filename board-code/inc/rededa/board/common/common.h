@@ -1,0 +1,27 @@
+#ifndef BOARDPRODUCT_H
+#define BOARDPRODUCT_H
+enum BoardMode
+{
+    INVALID_TYPE = 0,
+    EDIT_PCB,
+    EDIT_PKG,
+    EDIT_FOOTPRINT,
+    FORMAT_FOOTPRINT,
+    EDIT_COPPER,
+    EDIT_FLASH,
+    SCHEMATIC,
+    PCB,
+    PKG,
+    SCHEMATIC_LIBARAY,
+    PCB_LIBARAY,
+    PKG_LIBARAY,
+    PAD_STACK_EDIT
+};
+
+enum BoardProduct
+{
+    REDPKG = 0,
+    REDPCB 
+};
+
+#endif // BOARDPRODUCT_H

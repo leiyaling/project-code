@@ -1,0 +1,83 @@
+{
+    "System": {
+        "General": {
+            "Theme": {
+                "options": [
+                    "Dark",
+                    "Hight"
+                ],
+                "value": "Dark"
+            },
+            "Language": {
+                "options": [
+                    "English",
+                    "中文"
+                ],
+                "value": "English"
+            },
+            "auto_save": false,
+            "auto_save_time": 10,
+            "auto_backup": false,
+            "maximum_backups": 5,
+            "auto_backup_time": 10
+        },
+        "Library": {
+            "footprint": [
+                {
+                    "path": "C:\\Users\\Admin\\Desktop\\footprint",
+                    "active": true
+                },
+                {
+                    "path": "C:\\Users\\Admin\\Desktop\\Test\\footprint",
+                    "active": false
+                }
+            ],
+            "pad": [
+                {
+                    "path": "C:\\Users\\Admin\\Desktop\\pad",
+                    "active": true
+                },
+                {
+                    "path": "C:\\Users\\Admin\\Desktop\\Test\\pad",
+                    "active": false
+                }
+            ],
+            "device": [
+                {
+                    "path": "C:\\Users\\Admin\\Desktop\\device",
+                    "active": true
+                },
+                {
+                    "path": "C:\\Users\\Admin\\Desktop\\Test\\device",
+                    "active": false
+                }
+            ],
+            "step": [
+                {
+                    "path": "C:\\Users\\Admin\\Desktop\\step",
+                    "active": true
+                },
+                {
+                    "path": "C:\\Users\\Admin\\Desktop\\Test\\step",
+                    "active": false
+                }
+            ],
+            "tech": [
+                {
+                    "path": "C:\\Users\\Admin\\Desktop\\tech",
+                    "active": true
+                },
+                {
+                    "path": "C:\\Users\\Admin\\Desktop\\Test\\tech",
+                    "active": false
+                }
+            ]
+        }
+    },
+    "RedSCH":{},
+    "RedPCB":{},
+    "RedPKG":{},
+    "Toolbars": {},
+    "UI": {},
+    "Shortcut": {}
+}

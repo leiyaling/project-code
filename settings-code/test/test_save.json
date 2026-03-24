@@ -1,0 +1,72 @@
+{
+    "all_conductor": {
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "value": {
+            "x": [],
+            "y": []
+        }
+    },
+    "base": {
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "value": {
+            "x": [
+                25
+            ],
+            "y": [
+                25
+            ]
+        }
+    },
+    "grids_type": {
+        "options": [
+            "off",
+            "dots",
+            "line"
+        ],
+        "value": "dots"
+    },
+    "non_conductor": {
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "value": {
+            "x": [],
+            "y": []
+        }
+    },
+    "offset": {
+        "x": 0,
+        "y": 0
+    },
+    "surface": {
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "value": {
+            "x": [
+                25
+            ],
+            "y": [
+                25
+            ]
+        }
+    },
+    "value": {
+        "x": [
+            10000,
+            10000
+        ],
+        "y": [
+            10000,
+            10000
+        ]
+    }
+}

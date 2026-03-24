@@ -1,0 +1,270 @@
+{
+    "general": {
+        "unit": {
+            "options": [
+                "microns",
+                "millimeter",
+                "nanometer",
+                "centimeter",
+                "mils",
+                "inch"
+            ],
+            "value": "millimeter"
+        },
+        "accuracy": 3,
+        "long_name_size": 50,
+        "canvas_size": {
+            "options": [
+                "other",
+                "a1",
+                "a2",
+                "a3",
+                "a4",
+                "a",
+                "b",
+                "c",
+                "d"
+            ],
+            "value": "other",
+            "width": 10000,
+            "height": 10000,
+            "left_x": -5000,
+            "lower_y": -5000
+        },
+        "move_origin": {
+            "x": 0.00,
+            "y": 0.00
+        }
+    },
+    "display": {
+        "display_modes": {
+            "filled_pad": true,
+            "filled_track": true,
+            "filled_copper": true,
+            "plated_hole": false,
+            "via_label": false,
+            "waived_drc": false,
+            "non_plated_hole": false,
+            "display_origin": true
+        },
+        "display_net_name": {
+            "pad": false,
+            "track": false,
+            "copper": false
+        },
+        "drc_marker_size": 0.635,
+        "fly_net_geometry": "jogger",
+        "fly_net_points": "neasrest endpoint"
+    },
+    "grids": {
+        "grids_parament": {
+            "grids_type": {
+                "options": [
+                    "off",
+                    "dots",
+                    "line"
+                ],
+                "value": "dots"
+            },
+            "non_conductor": {
+                "value": {
+                    "x": [],
+                    "y": []
+                },
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "all_conductor": {
+                "value": {
+                    "x": [],
+                    "y": []
+                },
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "top": {
+                "value": {
+                    "x": [
+                        25
+                    ],
+                    "y": [
+                        25
+                    ]
+                },
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "bottom": {
+                "value": {
+                    "x": [
+                        25
+                    ],
+                    "y": [
+                        25
+                    ]
+                },
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        "grids_group": {
+            "group_list": [
+                {
+                    "value_x": 1,
+                    "value_y": 1,
+                    "offset_x": 0,
+                    "offset_y": 0
+                },
+                {
+                    "value_x": 2,
+                    "value_y": 2,
+                    "offset_x": 0,
+                    "offset_y": 0
+                },
+                {
+                    "value_x": 10,
+                    "value_y": 10,
+                    "offset_x": 0,
+                    "offset_y": 0
+                },
+                {
+                    "value_x": 25,
+                    "value_y": 25,
+                    "offset_x": 0,
+                    "offset_y": 0
+                }
+            ],
+            "grids_current": 3
+        }
+    },
+    "draw": {},
+    "text": {
+        "text_data": [
+            {
+                "width": 0.406,
+                "height": 0.635,
+                "line_space": 0.787,
+                "photo_width": 0.152,
+                "char_space": 0.152
+            },
+            {
+                "width": 0.584,
+                "height": 0.787,
+                "line_space": 0.991,
+                "photo_width": 0.152,
+                "char_space": 0.203
+            },
+            {
+                "width": 0.965,
+                "height": 1.127,
+                "line_space": 1.600,
+                "photo_width": 0.152,
+                "char_space": 0.330
+            },
+            {
+                "width": 1.194,
+                "height": 1.600,
+                "line_space": 2.007,
+                "photo_width": 0.152,
+                "char_space": 0.406
+            },
+            {
+                "width": 1.422,
+                "height": 1.905,
+                "line_space": 2.438,
+                "photo_width": 0.152,
+                "char_space": 0.483
+            },
+            {
+                "width": 1.524,
+                "height": 2.032,
+                "line_space": 2.540,
+                "photo_width": 0.152,
+                "char_space": 0.508
+            },
+            {
+                "width": 1.753,
+                "height": 2.388,
+                "line_space": 2.972,
+                "photo_width": 0.152,
+                "char_space": 0.584
+            },
+            {
+                "width": 1.905,
+                "height": 2.540,
+                "line_space": 3.175,
+                "photo_width": 0.152,
+                "char_space": 0.635
+            },
+            {
+                "width": 2.362,
+                "height": 3.175,
+                "line_space": 3.962,
+                "photo_width": 0.152,
+                "char_space": 0.787
+            },
+            {
+                "width": 2.972,
+                "height": 3.962,
+                "line_space": 4.953,
+                "photo_width": 0.152,
+                "char_space": 1.575
+            },
+            {
+                "width": 3.327,
+                "height": 4.445,
+                "line_space": 5.563,
+                "photo_width": 0.152,
+                "char_space": 1.118
+            },
+            {
+                "width": 3.581,
+                "height": 4.775,
+                "line_space": 5.969,
+                "photo_width": 0.000,
+                "char_space": 1.194
+            },
+            {
+                "width": 3.810,
+                "height": 5.080,
+                "line_space": 6.350,
+                "photo_width": 0.000,
+                "char_space": 1.270
+            },
+            {
+                "width": 4.242,
+                "height": 5.715,
+                "line_space": 7.137,
+                "photo_width": 0.000,
+                "char_space": 1.422
+            },
+            {
+                "width": 4.801,
+                "height": 6.350,
+                "line_space": 7.950,
+                "photo_width": 0.000,
+                "char_space": 1.600
+            },
+            {
+                "width": 9.525,
+                "height": 12.700,
+                "line_space": 15.875,
+                "photo_width": 0.000,
+                "char_space": 3.175
+            }
+        ],
+        "text_block": 1,
+        "coordinate_point": "left"
+    },
+    "copper": {},
+    "route": {},
+    "manufacture": {}
+}
