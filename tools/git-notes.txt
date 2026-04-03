@@ -1,0 +1,1 @@
+git config --global http.proxy http://127.0.0.1:端口   (网络不稳定，把梯子挂上去，端口号是梯子的端口号)
