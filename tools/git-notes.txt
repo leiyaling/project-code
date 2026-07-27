@@ -1,1 +1,6 @@
-git config --global http.proxy http://127.0.0.1:端口   (网络不稳定，把梯子挂上去，端口号是梯子的端口号)
+git config --global http.proxy http://127.0.0.1:端口   (网络不稳定，把梯子挂上去，端口号是梯子的端口号)-----但是我发现挂了梯子公司的gitlab网址会上不去，代码拉不下来
+
+
+C:\Qt\5.15.2\msvc2019_64\bin\windeployqt.exe "C:\code\fpcmanager\build-RelWithDebInfo\bin\FpcClient.exe" --qmldir "C:\code\fpcmanager\qml"
+把qt库拷贝某个exe依赖qt库的地方
+
